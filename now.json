@@ -1,4 +1,7 @@
 {
     "version": 1,
-    "name": "xeit"
+    "name": "xeit",
+  "github": {
+    "enabled": false
+  }
 }
